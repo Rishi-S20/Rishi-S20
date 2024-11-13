@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishi Suryavanshi</h1>
 <h3 align="center">I am a High Schooler based in Wisconsin, aspiring to go deeper into the computer science field. I have experience with frontend, mobile app development, and some Machine Learning.</h3>
 
-- 🔭 I’m currently working on [Quizify](https://github.com/Rishi-S20/Quizify.git)
+- 🔭 I’m currently working on [Quizify](https://github.com/Rishi-S20/Quizify-App.git)
 
 - 🌱 I’m currently learning **Backend and Swift**
 
