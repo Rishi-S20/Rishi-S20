@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Quizify](https://github.com/Rishi-S20/Quizify-App.git)
 
-- 🌱 I’m currently learning **Backend and Swift**
+- 🌱 I’m currently learning **PosgreSQL/Backend**
 
 - 📫 How to reach me **rishisuryavanshi14@gmail.com**
 
