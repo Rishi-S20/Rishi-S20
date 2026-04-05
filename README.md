@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rishi Suryavanshi</h1>
 <h3 align="center">A Milwaukee based student passionate about Computer Science and Data Science</h3>
 
-- 🔭 I’m currently working on [Greed](https://github.com/greed-verse)
+- 🔭 I’m currently working on [Sentinel](https://github.com/Rishi-S20/sentinel)
 
-- 🌱 I’m currently learning **Go and C++**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **rishisuryavanshi14@gmail.com**
 
