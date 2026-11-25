@@ -1,33 +1,19 @@
-<p align="center">
-  <img src="https://github.com/Rishi-S20/Rishi-S20/raw/main/assets/hero.svg" alt="Banner: a LiDAR point cloud with a dashed box around a detected person, next to the name Rishi Suryavanshi" width="100%" />
+<h1 align="center">Hi 👋, I'm Rishi Suryavanshi</h1>
+<h3 align="center">A Milwaukee based student passionate about Computer Science and Data Science</h3>
+
+- 🔭 I’m currently working on [Sentinel](https://github.com/Rishi-S20/sentinel)
+
+- 🌱 I’m currently learning **C++**
+
+- 📫 How to reach me **rishisuryavanshi14@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rishisuryavans8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishisuryavans8" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rishi-suryavanshi-18384724a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rishi-suryavanshi-18384724a/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/rishisurya28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rishisurya28/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@rishisuryavanshi6357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@rishisuryavanshi6357" height="30" width="40" /></a>
 </p>
 
-<h1 align="center">Hi, I'm Rishi 👋</h1>
-
-I'm a CS and Math student at UW–Madison and an AI Engineer at Direct Supply. I like building machine-learning systems that work on messy real-world data, then measuring honestly how well they work.
-
-<p align="center">
-  <a href="https://github.com/Rishi-S20"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/rishi-suryavanshi-18384724a/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:rishisuryavanshi14@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
-## 🔭 Right now
-
-Building **[lidar-mapping-detection](https://github.com/Rishi-S20/lidar-mapping-detection)**: an iPhone LiDAR mapper that finds people in the dark. The phone streams depth and motion-sensor data to a Mac, which builds a live 3D map with no camera image, and a classifier looks for people in that map. It began as a team hackathon project (MadHacks, Nov 2026). The first detector baseline finds 4 of 11 real people in held-out scans, so there's plenty left to improve.
-
-## 🛠 Projects
-
-| Project | What it is |
-|---|---|
-| [**lidar-mapping-detection**](https://github.com/Rishi-S20/lidar-mapping-detection) | Dark-room 3D mapping and person detection from iPhone LiDAR and IMU data (Swift, Python, Databricks). |
-| [**TennisPredictionModel**](https://github.com/Rishi-S20/TennisPredictionModel) | Predicts ATP match winners from 2006–2024 data. 63% accuracy against a 50% coin-flip baseline. |
-| [**NewBotanical**](https://github.com/Rishi-S20/NewBotanical) | SwiftUI iOS plant-identification app with a custom Python/TensorFlow classifier and watering reminders. |
-
-## 🧰 Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,swift,tensorflow,git,github" alt="Python, Swift, TensorFlow, Git, GitHub" />
-  <img src="https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks">
-  <img src="https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code">
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
